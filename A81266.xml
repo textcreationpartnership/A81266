@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Capt. John Hutchinson, in relation to his petition now before the House of Commons, against Col. Lillingston, and the agent to the regiment, Mr. John Thurston</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699-1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81266</idno>
+            <idno type="STC">Wing C888</idno>
+            <idno type="STC">ESTC R231171</idno>
+            <idno type="EEBO-CITATION">99896995</idno>
+            <idno type="PROQUEST">99896995</idno>
+            <idno type="VID">136904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2455:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Capt. John Hutchinson, in relation to his petition now before the House of Commons, against Col. Lillingston, and the agent to the regiment, Mr. John Thurston</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n..</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1699-1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996; Wing gives range of dates, 1699-1700.</note>
+                  <note>Docket title reads: 'Case.'</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ffoulkes, John --  Early works to 1800.</term>
+               <term>Hutchinson, John, --  Capt --  Early works to 1800.</term>
+               <term>Lillingston, Luke, 1653-1713 --  Early works to 1800.</term>
+               <term>Thurston, John, fl. 1699-1700 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:136904:1" rendition="simple:additions"/>
+            <head>
+               <hi>The</hi> CASE <hi>of Capt.</hi> John Hutchinſon, <hi>in Relation to his Petition now before the Houſe of Commons, againſt Col.</hi> Lillingſton, <hi>and the Agent to the Regiment, Mr.</hi> John Thurſton.</head>
+            <p>THE Regiment of Colonel <hi>John Foulke,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1692"/> in which the ſaid Petitioner had a Company, was Ordered to the <hi>Weſt Indies:</hi> And the Petitioner, by Order of his Colonel (for the Service of the ſaid Regiment) was ſent on Shore, and by accident left behind when the Fleet ſailed from <hi>Cowes.</hi>
+            </p>
+            <p>That the Petitioner endeavoured to have ſailed with the ſaid Fleet, by Marching ſome Men from <hi>Salisbury</hi> to <hi>Southampton,</hi> Eighteen Miles one Morning by Eleven of the Clock (the Tide being contrary) was kept there till Three of the Clock, and as ſoon as the Tide ſerved the Peti<g ref="char:EOLhyphen"/>tioner did go to <hi>Cowes,</hi> and the Fleet was then Sailed out of ſight; afterwards the Petitioner went to <hi>Portſmouth,</hi> and after to <hi>Cowes,</hi> where he engaged the <hi>Reſolution</hi> Privateer to carry him to <hi>Ply<g ref="char:EOLhyphen"/>mouth</hi> to have gained the Fleet, but could not; his Baggage was in the Fleet, and the Petitioner never left the Sea Coaſt till he ſailed after, in hopes to find them.</p>
+            <p>That before the Petitioner arrived at <hi>Barbadoes</hi> and the Leeward Iſlands, the Fleet which Con<g ref="char:EOLhyphen"/>voyed the ſaid Regiment was Sailed from them; whereupon the Petitioner Imbarqued for <hi>Eng<g ref="char:EOLhyphen"/>land</hi> again: And in <hi>September,</hi> 1693. in his return was Wounded, and taken Priſoner into <hi>France.</hi>
+            </p>
+            <p>The Petitioner in <hi>December,</hi> 1693. arrived in <hi>England,</hi> and found his Company at <hi>Salisbury,</hi> in the ſame Condition it Arriv'd from the <hi>Indies,</hi> which then conſiſted only of Twenty three Men, Sergeants, <hi>&amp;c.</hi> included; only his Enſign had Liſted Two Men, which the Petitioner paid him for: Nor were any of the Companies in the ſaid Regiment then Recruited.</p>
+            <p>Colonel <hi>Foulke</hi> being Dead, Colonel <hi>Lillingſton</hi> came to have the Command of the ſame Re<g ref="char:EOLhyphen"/>giment.</p>
+            <p>That the ſaid Colonel having ſaid, (and probably may do) that he lay under a neceſſity to Recruit the Petitioner's Company, by reaſon of his inability; forceth the Petitioner to inform this Houſe, that he can make it appear, (was it material) that to the ſame Regiment, whilſt Sir <hi>John Guiſe</hi> and Colonel <hi>Foulke</hi> had the Command of it, before it went into <hi>Ireland,</hi> the Pe<g ref="char:EOLhyphen"/>titioner Raiſed above Two Hundred Men; and after it came from <hi>Ireland,</hi> and the ſaid <hi>Weſt India</hi> Voyage, a conſiderable Number; and a Company in Colonel <hi>Brudenel</hi>'s late Regiment, in 1696.</p>
+            <p>That the Petitioner Raiſed Men, and Muſtered with his Company at <hi>Salisbury</hi> for the Months of <hi>January</hi> and <hi>February,</hi> (<hi>viz.</hi> Three Sergeants, Three Corporals, Two Drums, and Twenty five Private Soldiers, as by the Muſter-Roll may appear: After this Muſter, about the beginning of <hi>February,</hi> the ſaid Colonel <hi>Lillingſton</hi> Ordered Seventeen Men from Two other Companies to the Petitioners Company, being then to do Duty at <hi>Plymouth.</hi> The ſaid Colonel Ordered Pay only for the Effective Men till the Fourteenth of <hi>February;</hi> by which time the Petitioner had Rais'd to make his Company near full: And the Money he paid for Advance or Subſiſting the Men he Rai<g ref="char:EOLhyphen"/>ſed before that time, was out of his own Pocket.</p>
+            <p>That by the Firſt of <hi>March</hi> 1694, the Petitioners Company was full (as by the Muſter-Roll may appear) within One Man, and that Rais'd by the Petitioner ſoon after: Which Company was Compleated thus.</p>
+            <p>
+               <list>
+                  <item>Come back from the <hi>Weſt Indies</hi> 23</item>
+                  <item>The Colonel added 17</item>
+                  <item>The Petitioner Raiſed 23</item>
+               </list> 63. The Complement of a Full Company.</p>
+            <p>The Petitioner was alſo at the Charge of taking Two Men who Deſerted the Regiment, and were never Muſtered by him; which Two Men Colonel <hi>Lillingſton</hi> took from him, without any allowance to the Petitioner.</p>
+            <p>That the ſaid Colonel <hi>Lillingſton,</hi> or Mr. <hi>Thurſton,</hi> the Agent to the ſaid Regiment, (as the Pe<g ref="char:EOLhyphen"/>titioner moſt humbly conceives) do unjuſtly detain from him the Accounts of his Company, from the Firſt of <hi>October,</hi> 1693. to the Fourteenth of <hi>February</hi> following, which is the time the Petitioner ſhould receive ſome advantage by it, towards the great expence of Raiſing Men, Buying and Fix<g ref="char:EOLhyphen"/>ing Arms, and all other Neceſſaries to make good a ſhatter'd Company. And alſo the ſaid Colonel or Agent do unjuſtly detain other Sums of Money out of other Accounts ſince the Four<g ref="char:EOLhyphen"/>teenth of <hi>February.</hi>
+            </p>
+            <p>The Sums which the Colonel or Agent detain, are in all about 160 <hi>l.</hi> out of which (to the beſt of the Petitioners knowledge) there is no juſt Charge (except what ſhall be thought fit to allow the ſaid Colonel for the aforeſaid Seventeen Men) and he having Two from the Petitioner, as afore<g ref="char:EOLhyphen"/>ſaid, remains due to him but for Fifteen. However, if the Petitioner may have the Accounts of his Company, which is his Right, as by an Act of Parliament in the Fourth and Fifth of K. <hi>William</hi> and Q. <hi>Mary,</hi> Intituled, <hi>An Act for Puniſhing Officers,</hi> &amp;c. he never refuſeth any juſt Charge.</p>
+            <p>And the Petitioner Appeals to the Honour of all the General Officers in this Houſe, if it be not Cuſtomary when they have had occaſion to put Men to a Company, or ſome Officers to Raiſe for others, to Charge ſo much <hi>per</hi> Man.</p>
+            <p>That the Petitioner's Refuſing to Sign a Diſcharge in full to Agent <hi>Thurſton,</hi> is the Reaſon the Pe<g ref="char:EOLhyphen"/>titioner is Deprived of his Half Pay.</p>
+            <p>
+               <hi>The Petitioner humbly Prays, That Col.</hi> Lillingſton, <hi>or his Agent may deliver your Petitioner his Ac<g ref="char:EOLhyphen"/>counts, and Pay to him his Due. And that your Petitioner may be reſtored to his Half Pay.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:136904:2" rendition="simple:additions"/>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> CASE.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
